@@ -4,7 +4,7 @@
   "description": "",
   "main": "./dist/classname-reducer.js",
   "scripts": {
-    "test": "ts-mocha tests/**/tests.ts",
+    "test": "ts-mocha tests/tests.ts",
     "build": "tsc"
   },
   "repository": {
@@ -13,7 +13,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/JacquesFernandes/classname-reducer/issues"
   },
