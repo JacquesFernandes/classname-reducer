@@ -6,6 +6,8 @@
   "compilerOptions": {
     "outDir": "dist",
     "preserveConstEnums": true,
-    "sourceMap": true
+    "sourceMap": true,
+    "declaration": true,
+    "declarationDir": "./types"
   },
 }
